@@ -27,6 +27,6 @@ Tech Stack
 
 Contact
 
->Email: adarsh24153115@akgec.ac.in
+>Email: adarshsrivastava654@gmail.com
 
 >inkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/adarsh-srivastava-608156368/)
